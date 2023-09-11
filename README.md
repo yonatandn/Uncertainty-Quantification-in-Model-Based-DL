@@ -1,6 +1,6 @@
 # Uncertainty-Quantification-in-Model-Based-DL
 
-Yehonatan Dahan, Guy Revach, Jindrich Dunik, and Nir Shlezinger. "[Uncertainty Quantification in Deep Learning Based Kalman Filters]((https://arxiv.org/abs/2309.03058))." (2023).
+Yehonatan Dahan, Guy Revach, Jindrich Dunik, and Nir Shlezinger. "[Uncertainty Quantification in Deep Learning Based Kalman Filters](https://arxiv.org/abs/2309.03058)." (2023).
 
 ## Link To Paper
 
