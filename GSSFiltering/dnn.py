@@ -22,10 +22,6 @@ class DNN_SKalmanNet_GSS(torch.nn.Module):
         H1 = (x_dim + y_dim) * (10) * 8
         H2 = (x_dim * y_dim) * 1 * (4)
 
-        # # For Time-Varyling
-        # H1 = (x_dim + y_dim) * (5) * 4
-        # H2 = (x_dim * y_dim) * 1 * (4)
-
         self.input_dim_1 = (self.x_dim) * 2 + (self.y_dim) + (self.x_dim * self.y_dim)
         self.input_dim_2 = (self.y_dim) * 2 + (self.y_dim) + (self.x_dim * self.y_dim)
 
@@ -170,7 +166,7 @@ class KNet_architecture_v2(torch.nn.Module):
 
         self.gru_n_layer = 1
         self.batch_size = 1
-        self.seq_len_input = 1 # Forward 전후로 처리해야할게 있으니 hidden 초기화를 직접 하고 시퀀스 길이를 1로!
+        self.seq_len_input = 1
 
         self.prior_Q = torch.eye(x_dim)
         self.prior_Sigma = torch.randn((x_dim,x_dim))
