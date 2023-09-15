@@ -1,4 +1,4 @@
-# Uncertainty-Quantification-in-Model-Based-DL
+# Uncertainty Quantification in Model Based DL
 
 This repository includes the source code used in our paper:
 
