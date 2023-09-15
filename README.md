@@ -9,4 +9,4 @@ Various algorithms combine deep neural networks (DNNs) and Kalman filters (KFs) 
 
 
 #### Note
-This code is based on the [Split-Kalmanet](https://github.com/geonchoi/Split-KalmanNet) code.
+This code is based on the [Split-KalmanNet](https://github.com/geonchoi/Split-KalmanNet) code.
