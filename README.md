@@ -17,9 +17,9 @@ This repository consists of following Python scripts:
 * `config.ini` configuration for running `Main.py` script. Further details about the parameters could be found in `config.md` [file](https://github.com/yonatandn/Uncertainty-Quantification-in-Model-Based-DL/blob/main/config.md).
 * `GSSFiltering/dnn.py` defines deep neural network (dnn) architectures: KalmanNet and Split-KalmanNet.
 * `GSSFiltering/filtering.py` handles the filtering algorithms for the dnns and the extended kalman filter.
-* `GSSFiltering/model.py` defined the State-Space model's parameters.
-* `GSSFiltering/tester.py` handle the testing method.
-* `GSSFiltering/trainer.py` handle the training method.
+* `GSSFiltering/model.py` defines the State-Space model's parameters.
+* `GSSFiltering/tester.py` handles the testing method.
+* `GSSFiltering/trainer.py` handles the training method.
 
 
 ## Requirements
