@@ -33,5 +33,5 @@ To simply run the code, define the desired configuration in `config.ini` and exe
 
 
 ## Notes
-+The Recurrent Kalman Network (RKN) comparison in the paper was done with respect to [RKN](https://github.com/ALRhub/rkn_share).  
-+This code is based on the [Split-KalmanNet](https://github.com/geonchoi/Split-KalmanNet) code.  
++ The Recurrent Kalman Network (RKN) comparison in the paper was done with respect to [RKN](https://github.com/ALRhub/rkn_share).  
++ This code is based on the [Split-KalmanNet](https://github.com/geonchoi/Split-KalmanNet) code.  
