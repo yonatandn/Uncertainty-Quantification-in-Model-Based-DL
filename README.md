@@ -32,6 +32,6 @@ All required packages are listed in [requirement.txt](https://github.com/yonatan
 To simply run the code, define the desired configuration in `config.ini` and execute `Main.py`.
 
 
-#### Notes
+## Notes
 +The Recurrent Kalman Network (RKN) comparison in the paper was done with respect to [RKN](https://github.com/ALRhub/rkn_share).  
 +This code is based on the [Split-KalmanNet](https://github.com/geonchoi/Split-KalmanNet) code.  
